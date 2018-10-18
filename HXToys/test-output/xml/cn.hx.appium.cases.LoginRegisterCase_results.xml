@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QDY7N17422000262"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="12.368">
+  <properties />
+  
+  
+            <testcase name="qqLoginCase" time="12.368" classname="cn.hx.appium.cases.LoginRegisterCase" />
+      
+</testsuite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Suite]" parallel="tests">
+  <parameter name="port" value="4491"/>
+  <parameter name="udid" value="QDY7N17422000262"/>
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="cn.hx.appium.testng.RetryListener"/>
+    <listener class-name="cn.hx.appium.testng.TestngListener"/>
+  </listeners>
+  <test name="QDY7N17422000262">
+    <parameter name="port" value="4491"/>
+    <parameter name="udid" value="QDY7N17422000262"/>
+    <classes>
+      <class name="cn.hx.appium.cases.LoginRegisterCase"/>
+    </classes>
+  </test> <!-- QDY7N17422000262 -->
+</suite> <!-- Failed suite [Suite] -->
