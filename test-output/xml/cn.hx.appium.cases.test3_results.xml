@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QDY7N17422000262"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.000">
+  <properties />
+  
+  
+            <testcase name="t2" time="0.000" classname="cn.hx.appium.cases.test3" />
+                <testcase name="t3" time="0.000" classname="cn.hx.appium.cases.test3" />
+                <testcase name="t4" time="0.000" classname="cn.hx.appium.cases.test3" />
+                <testcase name="t1" time="0.000" classname="cn.hx.appium.cases.test3" />
+                <testcase name="t5" time="0.000" classname="cn.hx.appium.cases.test3" />
+      
+</testsuite>

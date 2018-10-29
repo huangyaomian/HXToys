@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QDY7N17422000262"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="156.872">
+  <properties />
+  
+  
+            <testcase name="buyByCarCase" time="12.018" classname="cn.hx.appium.cases.RandomPlayCase" />
+                <testcase name="checkInfoCase" time="142.738" classname="cn.hx.appium.cases.RandomPlayCase" />
+                <testcase name="compareGoodsCase" time="2.116" classname="cn.hx.appium.cases.RandomPlayCase" />
+      
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="c8ebc45e"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="67.160">
+  <properties />
+  
+  
+            <testcase name="checkNumCase" time="29.517" classname="cn.hx.appium.cases.ExchangeTicketCase" />
+                <testcase name="goldExchangeCase" time="18.951" classname="cn.hx.appium.cases.ExchangeTicketCase" />
+                <testcase name="intExchangeCase" time="18.692" classname="cn.hx.appium.cases.ExchangeTicketCase" />
+      
+</testsuite>

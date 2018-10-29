@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QDY7N17422000262"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="69.952">
+  <properties />
+  
+  
+            <testcase name="addGBabyCase" time="22.894" classname="cn.hx.appium.cases.BabyFileCase" />
+                <testcase name="modifyBabyCase" time="24.432" classname="cn.hx.appium.cases.BabyFileCase" />
+                <testcase name="addBBabyCase" time="22.626" classname="cn.hx.appium.cases.BabyFileCase" />
+      
+</testsuite>

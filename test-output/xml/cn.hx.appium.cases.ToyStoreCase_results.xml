@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="c8ebc45e"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="73.397">
+  <properties />
+  
+  
+            <testcase name="shareFilterCase" time="36.676" classname="cn.hx.appium.cases.ToyStoreCase" />
+                <testcase name="rentByCarCase" time="21.958" classname="cn.hx.appium.cases.ToyStoreCase" />
+                <testcase name="filterCase" time="4.853" classname="cn.hx.appium.cases.ToyStoreCase" />
+                <testcase name="rentByNowCase" time="9.910" classname="cn.hx.appium.cases.ToyStoreCase" />
+      
+</testsuite>

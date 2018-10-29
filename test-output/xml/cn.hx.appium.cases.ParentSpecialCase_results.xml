@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QDY7N17422000262"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="416.057">
+  <properties />
+  
+  
+            <testcase name="checkInfoCase" time="185.643" classname="cn.hx.appium.cases.ParentSpecialCase" />
+                <testcase name="updataNumCase" time="40.911" classname="cn.hx.appium.cases.ParentSpecialCase" />
+                <testcase name="updataNumByListCase" time="32.112" classname="cn.hx.appium.cases.ParentSpecialCase" />
+                <testcase name="buyByDetailCase" time="11.971" classname="cn.hx.appium.cases.ParentSpecialCase" />
+                <testcase name="addCarCase" time="64.958" classname="cn.hx.appium.cases.ParentSpecialCase" />
+                <testcase name="updataNumByHomeCase" time="46.979" classname="cn.hx.appium.cases.ParentSpecialCase" />
+                <testcase name="buyByCarCase" time="33.483" classname="cn.hx.appium.cases.ParentSpecialCase" />
+      
+</testsuite>

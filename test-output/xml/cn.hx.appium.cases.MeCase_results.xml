@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QDY7N17422000262"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="74.875">
+  <properties />
+  
+  
+            <testcase name="feedbackCase" time="15.901" classname="cn.hx.appium.cases.MeCase" />
+                <testcase name="checkGoldCase" time="29.273" classname="cn.hx.appium.cases.MeCase" />
+                <testcase name="checkIntegralCase" time="29.701" classname="cn.hx.appium.cases.MeCase" />
+      
+</testsuite>

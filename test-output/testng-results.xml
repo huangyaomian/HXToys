@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="65339" started-at="2018-10-24T07:35:17Z" finished-at="2018-10-24T07:36:22Z">
+    <groups>
+    </groups>
+    <test name="QDY7N17422000262" duration-ms="65339" started-at="2018-10-24T07:35:17Z" finished-at="2018-10-24T07:36:22Z">
+      <class name="cn.hx.appium.cases.LoginRegisterCase">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:cn.hx.appium.cases.LoginRegisterCase@543788f3]" name="beforeClass" is-config="true" duration-ms="18465" started-at="2018-10-24T15:35:17Z" finished-at="2018-10-24T15:35:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[QDY7N17422000262]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4491]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:cn.hx.appium.cases.LoginRegisterCase@543788f3]" name="beforeMethod" is-config="true" duration-ms="6311" started-at="2018-10-24T15:35:35Z" finished-at="2018-10-24T15:35:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cn.hx.appium.cases.LoginRegisterCase.qqLoginCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="qqLoginCase()[pri:5, instance:cn.hx.appium.cases.LoginRegisterCase@543788f3]" name="qqLoginCase" duration-ms="15505" started-at="2018-10-24T15:35:42Z" finished-at="2018-10-24T15:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- qqLoginCase -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:cn.hx.appium.cases.LoginRegisterCase@543788f3]" name="quit" is-config="true" duration-ms="2407" started-at="2018-10-24T15:36:22Z" finished-at="2018-10-24T15:36:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- cn.hx.appium.cases.LoginRegisterCase -->
+      <class name="cn.hx.appium.cases.ChooseShopCase">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:cn.hx.appium.cases.ChooseShopCase@6d3af739]" name="beforeClass" is-config="true" duration-ms="538" started-at="2018-10-24T15:35:57Z" finished-at="2018-10-24T15:35:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[QDY7N17422000262]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:cn.hx.appium.cases.ChooseShopCase@6d3af739]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-10-24T15:35:58Z" finished-at="2018-10-24T15:35:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cn.hx.appium.cases.ChooseShopCase.chooseHistorySpCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="chooseHistorySpCase()[pri:11, instance:cn.hx.appium.cases.ChooseShopCase@6d3af739]" name="chooseHistorySpCase" duration-ms="13042" started-at="2018-10-24T15:35:58Z" finished-at="2018-10-24T15:36:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseHistorySpCase -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:cn.hx.appium.cases.ChooseShopCase@6d3af739]" name="aftermethod" is-config="true" duration-ms="4303" started-at="2018-10-24T15:36:11Z" finished-at="2018-10-24T15:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="achooseAllSpCase()[pri:12, instance:cn.hx.appium.cases.ChooseShopCase@6d3af739]" name="achooseAllSpCase" duration-ms="2980" started-at="2018-10-24T15:36:15Z" finished-at="2018-10-24T15:36:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- achooseAllSpCase -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:cn.hx.appium.cases.ChooseShopCase@6d3af739]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-24T15:36:15Z" finished-at="2018-10-24T15:36:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cn.hx.appium.cases.ChooseShopCase.achooseAllSpCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:cn.hx.appium.cases.ChooseShopCase@6d3af739]" name="aftermethod" is-config="true" duration-ms="4184" started-at="2018-10-24T15:36:18Z" finished-at="2018-10-24T15:36:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- cn.hx.appium.cases.ChooseShopCase -->
+    </test> <!-- QDY7N17422000262 -->
+  </suite> <!-- Suite -->
+</testng-results>

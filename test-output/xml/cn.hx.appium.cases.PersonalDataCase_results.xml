@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="c8ebc45e"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="73.224">
+  <properties />
+  
+  
+            <testcase name="QQBindCase" time="29.995" classname="cn.hx.appium.cases.PersonalDataCase" />
+                <testcase name="modifyNickCase" time="43.229" classname="cn.hx.appium.cases.PersonalDataCase" />
+      
+</testsuite>

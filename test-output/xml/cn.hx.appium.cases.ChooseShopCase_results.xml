@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QDY7N17422000262"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="16.022">
+  <properties />
+  
+  
+            <testcase name="achooseAllSpCase" time="2.980" classname="cn.hx.appium.cases.ChooseShopCase" />
+                <testcase name="chooseHistorySpCase" time="13.042" classname="cn.hx.appium.cases.ChooseShopCase" />
+      
+</testsuite>

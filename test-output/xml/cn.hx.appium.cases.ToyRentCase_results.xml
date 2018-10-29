@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QDY7N17422000262"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="288.393">
+  <properties />
+  
+  
+            <testcase name="addCarRentCase" time="133.396" classname="cn.hx.appium.cases.ToyRentCase" />
+                <testcase name="typeAndAgeCase" time="19.743" classname="cn.hx.appium.cases.ToyRentCase" />
+                <testcase name="addCarDetailCase" time="57.112" classname="cn.hx.appium.cases.ToyRentCase" />
+                <testcase name="rentByNowCase" time="7.395" classname="cn.hx.appium.cases.ToyRentCase" />
+                <testcase name="carOperateCase" time="39.525" classname="cn.hx.appium.cases.ToyRentCase" />
+                <testcase name="rentByCarCase" time="31.222" classname="cn.hx.appium.cases.ToyRentCase" />
+      
+</testsuite>

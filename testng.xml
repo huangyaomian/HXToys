@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="tests" thread-count="1">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+        <listener class-name="cn.hx.appium.testng.RetryListener"/>
+        <listener class-name="cn.hx.appium.testng.TestngListener"/>
+    </listeners>
+    <test name="QDY7N17422000262" parallel="false">
+        <parameter name="udid" value="QDY7N17422000262"/>
+        <parameter name="port" value="4491"/>
+        <classes>
+            <class name="cn.hx.appium.cases.LoginRegisterCase"/>
+            <class name="cn.hx.appium.cases.ChooseShopCase"/>
+        </classes>
+    </test>
+</suite>
